@@ -1,0 +1,139 @@
+{
+   "checksum": "9f4718ed5f2cf5d59396d529cff77336",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13378635275494376",
+            "date_last_used": "0",
+            "guid": "efe6ea72-55b6-463a-8401-e1ce344db15b",
+            "id": "18",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=232&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13378635275494172",
+            "date_last_used": "0",
+            "guid": "b7721b91-dac6-41b2-b2fc-cb2ccd55d818",
+            "id": "17",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13378635275493715",
+            "date_last_used": "0",
+            "guid": "8ae8510f-593b-4f22-9d07-94929b81db46",
+            "id": "16",
+            "name": "Adobe offers",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?c=232&type=103EF_NW&RedeemCode=4A0RPTPxr9d9JiHDtUuw%2f%2f7Q7Sulf3NXKDmLuqoU8qR6nPTLgLc7jwc7sbsvRiEMjBTPwE5kKBIqlQ2UQqlsWBBYzywvhNs8suj%2fMxLba0aX2rGLu9kPJPCEZUbHJRP%2b2nf8VsSj0NT%2b%2bW2hFyspxsUfMZMQYKg1TYG7iPwgjkc%3d",
+            "visit_count": 0
+         }, {
+            "date_added": "13378627714855936",
+            "date_last_used": "0",
+            "guid": "8ed6c5af-d77d-40cb-8b44-f0594ef19684",
+            "id": "13",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=232&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13378627714855688",
+            "date_last_used": "0",
+            "guid": "e86651ba-5f45-4c6d-bbbb-773bf0ab8c9b",
+            "id": "12",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13378627714855085",
+            "date_last_used": "0",
+            "guid": "e4877d4b-5c1a-4817-b53f-5a3d05dddfea",
+            "id": "11",
+            "name": "Adobe offers",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?c=232&type=103EF_NW&RedeemCode=4A0RPTPxr9d9JiHDtUuw%2f%2f7Q7Sulf3NXKDmLuqoU8qR6nPTLgLc7jwc7sbsvRiEMjBTPwE5kKBIqlQ2UQqlsWBBYzywvhNs8suj%2fMxLba0aX2rGLu9kPJPCEZUbHJRP%2b2nf8VsSj0NT%2b%2bW2hFyspxsUfMZMQYKg1TYG7iPwgjkc%3d",
+            "visit_count": 0
+         }, {
+            "date_added": "13378579941359910",
+            "date_last_used": "0",
+            "guid": "934eee49-3cfa-43f0-81ca-efa6ca2b4566",
+            "id": "8",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=232&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13378579941359680",
+            "date_last_used": "0",
+            "guid": "b66a16a7-2ea9-4527-8c1a-4e01ebe93c13",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13378579941358770",
+            "date_last_used": "0",
+            "guid": "06e64d5a-1d0d-44f1-b260-962c26ef86c9",
+            "id": "6",
+            "name": "Adobe offers",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?c=232&type=103EF_NW&RedeemCode=4A0RPTPxr9d9JiHDtUuw%2f%2f7Q7Sulf3NXKDmLuqoU8qR6nPTLgLc7jwc7sbsvRiEMjBTPwE5kKBIqlQ2UQqlsWBBYzywvhNs8suj%2fMxLba0aX2rGLu9kPJPCEZUbHJRP%2b2nf8VsSj0NT%2b%2bW2hFyspxsUfMZMQYKg1TYG7iPwgjkc%3d",
+            "visit_count": 0
+         } ],
+         "date_added": "13378579940999594",
+         "date_last_used": "0",
+         "date_modified": "13378635275494376",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13378579940999610",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13378579940999614",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCJ5+p62RAQAAEgAqGHAvZ1EvNjE4V2h1b25XVXptcVpwS1E9PUgDoAYHEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDhlZDg4M2Y1LWJjNjQtNTVkNy05NzM4LTBhOTBkZjk4MmVmZhgAIAAoADCX/Z3tmjI4vYOe7ZoyQL2Dnu2aMkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQxNGNlYTI4Ny1lNmRhLTVjZTItOTM4My05YjUyNjU5NDYxOTcYACAAKAAwmP2d7ZoyONeDnu2aMkDXg57tmjJKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYjAzZGMyMGQtZDE1Ny01OTBkLThjNzEtNzhiZTBlNTYxODIzGAAgACgAMJ39ne2aMjiJhJ7tmjJAiYSe7ZoyShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
